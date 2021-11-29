@@ -6,6 +6,10 @@
     box-sizing: inherit;
 }
 
+h2 {
+    font-size: 5.2vw;
+}
+
 .container {
     display: grid;
     grid-template-columns: 1fr repeat(3, 1fr) 1fr;
